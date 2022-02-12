@@ -32,10 +32,10 @@ stretch_mode = 4
 
 [node name="LabelBig" parent="UI/UIBox/VBoxContainer" index="1" instance=ExtResource( 6 )]
 anchor_right = 0.0
-margin_top = 399.0
-margin_right = 584.0
-margin_bottom = 440.0
-text = "Godot Toolbox Project"
+margin_top = 559.0
+margin_right = 1024.0
+margin_bottom = 600.0
+text = "The Tearcell Studio Production"
 
 [node name="BaseBackground" parent="." index="1" instance=ExtResource( 5 )]
 
